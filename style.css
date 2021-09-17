@@ -10,7 +10,9 @@ html{
     font-size: 18px;
     font-family: "Poppins", sans-serif;
     color: rgb(30, 30, 107);
-    background-color:rgba(30, 30, 107, 0.274) ;
+    /* background-color:rgba(30, 30, 107, 0.274) ; */
+    margin-right: 80px;
+    margin-left: 80px;
 }
 
 .image img{
@@ -58,5 +60,14 @@ section div{
         color:#fff;
         text-align: center;
         margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    html{
+     
+        color: rgb(30, 30, 107);
+        background-color:rgba(30, 30, 107, 0.274) ;
+        margin-right: 0;
+        margin-left: 0;
     }
 }
