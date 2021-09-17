@@ -33,7 +33,7 @@ div.jum{
 }
 
 section.we{
-    background-image: url(./images/stlone.jpg);
+    background: url(./images/stlone.jpg);
     width: 100%;
     background-position: center;
     background-size: cover;
